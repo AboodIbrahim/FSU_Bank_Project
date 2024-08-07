@@ -1,0 +1,12 @@
+id:              AF068625                 200 bp    mRNA    linear   ROD 06-DEC-1999
+header:      >  Mus musculus DNA cytosine-5 methyltransferase 3A (Dnmt3a) mRNA,
+accession:       AF068625 REGION: 1..200
+version:         AF068625.2  GI:6449467
+source:          Mus musculus (house mouse)
+sequence:
+gaattccggcctgctgccgggccgcccgacccgccgggccacacggcagagccgcctgaa
+gcccagcgctgaggctgcacttttccgagggcttgacatcagggtctatgtttaagtctt
+agctcttgcttacaaagaccacggcaattccttctctgaagccctcgcagccccacagcg
+ccctcgcagccccagcctgc
+
+
